@@ -60,5 +60,47 @@
 	},
 	"ot": {
 		"description": "Ответить на репорт (1 LVL)"
+	},
+	"pm": {
+		"description": "Написать игроку (1 LVL)",
+		"args": ["ID игрока", "Текст"],
+		"lastString": true
+	},
+	"admins": {
+		"description": "Администраторы онлайн (1 LVL)"
+	},
+	"getwarn": {
+		"description": "Наказания игрока (1 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"az": {
+		"description": "Телепорт в админ.зону (1 LVL)"
+	},
+	"spplayer": {
+		"description": "Заспавнить игрока (1 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"spawn": {
+		"description": "Заспавнить себя (1 LVL)"
+	},
+	"orgmembers": {
+		"description": "Онлайн организаций (1 LVL)"
+	},
+	"apanel": {
+		"description": "Панель администратора (1 LVL)"
+	},
+	"check": {
+		"description": "Статистика игрока (1 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"querryacceptadmin": {
+		"description": "Запросить ацепт (1 LVL)"
+	},
+	"factions": {
+		"description": "ID организаций (1 LVL)"
+	},
+	"goto": {
+		"description": "Телепорт к игроку (1 LVL)",
+		"args": ["ID Игрока"]
 	}
 }
