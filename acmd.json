@@ -21,9 +21,17 @@
 	"toglogins": {
 		"description": "Включить/Выключить лох входов и выходов"
 	},
-	"f": {
-		"description": "IC чат фракции",
-		"args": ["Текст"],
-		"lastString": true
+	"getadm": {
+		"description": "Статистика Администратора"
+	},
+	"svrnt": {
+		"description": "Server Network Stats"
+	},
+	"plrnt": {
+		"description": "Player Network Stats"
+	},
+	"weapcheck": {
+		"description": "Оружие игрока",
+		"args": ["ID игрока"]
 	}
 }
