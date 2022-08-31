@@ -1,23 +1,18 @@
 {
 	"a": {
-		"description": "Сказать шепотом",
+		"description": "Админ-Чат",
 		"args": ["Текст"],
 		"lastString": true
 	},
-	"ad": {
-		"description": "Подать объявление",
-		"args": ["Текст"],
-		"lastString": true
+	"listlabel": {
+		"description": "Список Label"
 	},
-	"s": {
-		"description": "Кричать",
-		"args": ["Текст"],
-		"lastString": true
+	"gotolabel": {
+		"description": "Телепорт к Label",
+		"args": ["Слот Label"]
 	},
-	"b": {
-		"description": "ООС чат",
-		"args": ["Текст"],
-		"lastString": true
+	"weatherinfo": {
+		"description": "Информация о погоде"
 	},
 	"r": {
 		"description": "IC чат фракции",
