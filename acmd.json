@@ -4,10 +4,24 @@
 		"args": ["Текст"],
 		"lastString": true
 	},
-	"ad": {
-		"description": "Подать объявление",
-		"args": ["Текст"],
-		"lastString": true
+	"listlabel": {
+		"description": "Список Label",
+	},
+	"gotolabel": {
+		"description": "Телепорт к Label",
+	},
+  	"weatherinfo": {
+		"description": "Информация о Погоде",
+	},
+  	"qinfo": {
+		"description": "Информация о квесте игрока",
+    	"args": ["ID игрока", "ID квеста"]
+	},
+  	"toglogins": {
+		"description": "Включить/Выключить лог входов и выходов игроков",
+	},
+  	"getadm": {
+		"description": "Статистика Администратора",
 	},
 	"s": {
 		"description": "Кричать",
