@@ -33,5 +33,32 @@
 	"weapcheck": {
 		"description": "Оружие игрока",
 		"args": ["ID игрока"]
+	},
+	"slap": {
+		"description": "Слапнуть игрока",
+		"args": ["ID игрока"]
+	},
+	"slap2": {
+		"description": "Слапнуть вниз",
+		"args": ["ID игрока"]
+	},
+	"uncuff": {
+		"description": "Снять наручники",
+		"args": ["ID игрока"]
+	},
+	"bot": {
+		"description": "Забрать скрепки",
+		"args": ["ID игрока"]
+	},
+	"freeze": {
+		"description": "Заморозить игрока",
+		"args": ["ID игрока"]
+	},
+	"unfreeze": {
+		"description": "Разморозить игрока",
+		"args": ["ID игрока"]
+	},
+	"ot": {
+		"description": "Ответить на репорт"
 	}
 }
