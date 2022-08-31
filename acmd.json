@@ -1,64 +1,64 @@
 {
 	"a": {
-		"description": "Админ-Чат",
+		"description": "Админ-Чат (1 LVL)",
 		"args": ["Текст"],
 		"lastString": true
 	},
 	"listlabel": {
-		"description": "Список Label"
+		"description": "Список Label (1 LVL)"
 	},
 	"gotolabel": {
-		"description": "Телепорт к Label",
+		"description": "Телепорт к Label (1 LVL)",
 		"args": ["Слот Label"]
 	},
 	"weatherinfo": {
-		"description": "Информация о погоде"
+		"description": "Информация о погоде (1 LVL)"
 	},
 	"qinfo": {
-		"description": "IC чат фракции",
+		"description": "IC чат фракции (1 LVL)",
 		"args": ["ID игрока", "ID квеста"]
 	},
 	"toglogins": {
-		"description": "Включить/Выключить лох входов и выходов"
+		"description": "Включить/Выключить лог входов и выходов (1 LVL)"
 	},
 	"getadm": {
-		"description": "Статистика Администратора"
+		"description": "Статистика Администратора (1 LVL)"
 	},
 	"svrnt": {
-		"description": "Server Network Stats"
+		"description": "Server Network Stats (1 LVL)"
 	},
 	"plrnt": {
-		"description": "Player Network Stats"
+		"description": "Player Network Stats (1 LVL)"
 	},
 	"weapcheck": {
-		"description": "Оружие игрока",
+		"description": "Оружие игрока (1 LVL)",
 		"args": ["ID игрока"]
 	},
 	"slap": {
-		"description": "Слапнуть игрока",
+		"description": "Слапнуть игрока (1 LVL)",
 		"args": ["ID игрока"]
 	},
 	"slap2": {
-		"description": "Слапнуть вниз",
+		"description": "Слапнуть вниз (1 LVL)",
 		"args": ["ID игрока"]
 	},
 	"uncuff": {
-		"description": "Снять наручники",
+		"description": "Снять наручники (1 LVL)",
 		"args": ["ID игрока"]
 	},
 	"bot": {
-		"description": "Забрать скрепки",
+		"description": "Забрать скрепки (1 LVL)",
 		"args": ["ID игрока"]
 	},
 	"freeze": {
-		"description": "Заморозить игрока",
+		"description": "Заморозить игрока (1 LVL)",
 		"args": ["ID игрока"]
 	},
 	"unfreeze": {
-		"description": "Разморозить игрока",
+		"description": "Разморозить игрока (1 LVL)",
 		"args": ["ID игрока"]
 	},
 	"ot": {
-		"description": "Ответить на репорт"
+		"description": "Ответить на репорт (1 LVL)"
 	}
 }
