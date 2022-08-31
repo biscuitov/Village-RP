@@ -1,6 +1,6 @@
 {
-	"c": {
-		"description": "Сказать шепотом",
+	"a": {
+		"description": "Админ-Чат",
 		"args": ["Текст"],
 		"lastString": true
 	},
