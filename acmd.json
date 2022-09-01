@@ -125,5 +125,128 @@
 	},
 	"awh": {
 		"description": "WallHack с Лаунчера (1 LVL)"
+	},
+
+	"kpz": {
+		"description": "Посадить игрока в КПЗ (2 LVL)",
+		"args": ["ID Игрока", "Время", "Причина"],
+		"lastString": true
+	},
+	"unkpz": {
+		"description": "Выпустить игрока из КПЗ (2 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"tvs": {
+		"description": "Крик без никнейма (2 LVL)",
+		"args": ["Текст"],
+		"lastString": true
+	},
+	"as": {
+		"description": "Крик с никнеймом (2 LVL)",
+		"args": ["Текст"],
+		"lastString": true
+	},
+	"ames": {
+		"description": "Разговор без ника (2 LVL)",
+		"args": ["Текст"],
+		"lastString": true
+	},
+	"muteic": {
+		"description": "Выдать IC мут (2 LVL)",
+		"args": ["ID Игрока", "Время", "Причина"],
+		"lastString": true
+	},
+	"muteooc": {
+		"description": "Выдать OOC мут (2 LVL)",
+		"args": ["ID Игрока", "Время", "Причина"],
+		"lastString": true
+	},
+	"unmuteic": {
+		"description": "Снять IC мут (2 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"unmuteooc": {
+		"description": "Снять IC мут (2 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"checkcarskill": {
+		"description": "Проверить навык вождения игрока (2 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"adeldesc": {
+		"description": "Удалить /desc игрока (2 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"weap": {
+		"description": "Забрать оружие (2 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"jail": {
+		"description": "Посадить в деморган (2 LVL)",
+		"args": ["ID Игрока", "Время", "Причина"],
+		"lastString": true
+	},
+	"unjail": {
+		"description": "Выпустить из деморгана (2 LVL)",
+		"args": ["ID Игрока", "Время", "Причина"],
+		"lastString": true
+	},
+	"spcar": {
+		"description": "Заспавнить транспорт (2 LVL)",
+		"args": ["ID Транспорта"]
+	},
+	"unfirewood": {
+		"description": "Убрать костры в радиусе (2 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"kick": {
+		"description": "Кикнуть игрока (2 LVL)",
+		"args": ["ID Игрока", "Причина"],
+		"lastString": true
+	},
+	"getip": {
+		"description": "Узнать IP игрока (2 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"sethp": {
+		"description": "Выдать HP игроку (2 LVL)",
+		"args": ["ID Игрока", "Кол-во HP"]
+	},
+	"findfam": {
+		"description": "Информация о семье (2 LVL)",
+		"args": ["ID Семьи"]
+	},
+	"online": {
+		"description": "Посмотреть онлайн игрока (2 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"mutescare": {
+		"description": "Заблокировать /scare игроку (2 LVL)",
+		"args": ["ID Игрока", "Время", "Причина"],
+		"lastString": true
+	},
+	"jp": {
+		"description": "Выдать себе JetPack (2 LVL)"
+	},
+	"warnlog_pl": {
+		"description": "Наказания игрока в сети (2 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"warnlog_name": {
+		"description": "Наказания игрока в оффлайне (2 LVL)",
+		"args": ["Никнейм игрока"],
+		"lastString": true
+	},
+	"gotobiz": {
+		"description": "Телепорт к бизнесу (2 LVL)",
+		"args": ["ID Бизнеса"]
+	},
+	"gotohouse": {
+		"description": "Телепорт к дому (2 LVL)",
+		"args": ["ID Дома"]
+	},
+	"gotocar": {
+		"description": "Телепорт к транспорту (2 LVL)",
+		"args": ["ID Транспорта"]
 	}
 }
