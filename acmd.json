@@ -248,5 +248,128 @@
 	"gotocar": {
 		"description": "Телепорт к транспорту (2 LVL)",
 		"args": ["ID Транспорта"]
+	},
+
+	"checkoff": {
+		"description": "Наказания игрока в оффлайне (3 LVL)",
+		"args": ["Никнейм игрока"],
+		"lastString": true
+	},
+	"key": {
+		"description": "Вставить ключи в авто (3 LVL)"
+	},
+	"plveh": {
+		"description": "Выдать временный автомобиль (3 LVL)",
+		"args": ["ID Игрока", "ID Авто"]
+	},
+	"weapall": {
+		"description": "Забрать оружие в радиусе (3 LVL)",
+		"args": ["Радиус"]
+	},
+	"warn": {
+		"description": "Выдать Warn (3 LVL)",
+		"args": ["ID Игрока", "Причина"],
+		"lastString": true
+	},
+	"unwarn": {
+		"description": "Снять Warn (3 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"checklic": {
+		"description": "Посмотреть лицензии (3 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"checkskills": {
+		"description": "Посмотреть скиллы (3 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"ban": {
+		"description": "Заблокировать игрока (3 LVL)",
+		"args": ["ID Игрока", "Дни", "Причина"],
+		"lastString": true
+	},
+	"gm": {
+		"description": "Включить GodMode (3 LVL)"
+	},
+	"spcars": {
+		"description": "Спавн транспорта в радиусе (3 LVL)",
+		"args": ["Радиус"]
+	},
+	"spplayers": {
+		"description": "Спавн игроков в радиусе (3 LVL)",
+		"args": ["Радиус"]
+	},
+	"freezeall": {
+		"description": "Фриз в радиусе (3 LVL)",
+		"args": ["Радиус"]
+	},
+	"unfreezeall": {
+		"description": "Анфриз в радиусе (3 LVL)",
+		"args": ["Радиус"]
+	},
+	"azakon": {
+		"description": "Игнор звезд в радиусе (3 LVL)",
+		"args": ["Радиус"]
+	},
+	"hpall": {
+		"description": "Выдать HP в радиусе (3 LVL)",
+		"args": ["Радиус"]
+	},
+	"armourall": {
+		"description": "Выдать броню в радиусе (3 LVL)",
+		"args": ["Радиус"]
+	},
+	"unarmourall": {
+		"description": "Снять броню в радиусе (3 LVL)",
+		"args": ["Радиус"]
+	},
+	"pgetip": {
+		"description": "Проверка мультиаккаунтов (3 LVL)",
+		"args": ["ID/Nick"]
+	},
+	"pgetips": {
+		"description": "Проверка мультиаккаунтов по IP (3 LVL)",
+		"args": ["IP Адрес"]
+	},
+	"fuelinfo": {
+		"description": "Информация о бензине (3 LVL)",
+		"args": ["ID Транспорта"]
+	},
+	"afillcar": {
+		"description": "Заправить авто (3 LVL)"
+	},
+	"needs": {
+		"description": "Пополнить нужды (3 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"needsall": {
+		"description": "Пополнить нужды в радиусе (3 LVL)",
+		"args": ["Радиус"]
+	},
+	"clearsu": {
+		"description": "Снять розыск игроку (3 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"renamelog_pl": {
+		"description": "История ников игрока в сети (3 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"renamelog_name": {
+		"description": "История ников игрока в оффлайне (3 LVL)",
+		"args": ["Никнейм игрока"],
+		"lastString": true
+	},
+	"renamelog_uid": {
+		"description": "История ников игрока по UID (3 LVL)",
+		"args": ["UID Игрока"]
+	},
+	"warnlog_uid": {
+		"description": "Наказания игрока по UID (2 LVL)",
+		"args": ["UID Игрока"]
+	},
+	"leaderlog": {
+		"description": "Лог действий лидера (3 LVL)",
+		"args": ["Никнейм лидера"],
+		"lastString": true
 	}
 }
