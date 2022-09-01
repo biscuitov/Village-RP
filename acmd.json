@@ -102,5 +102,28 @@
 	"goto": {
 		"description": "Телепорт к игроку (1 LVL)",
 		"args": ["ID Игрока"]
+	},
+	"checkinv": {
+		"description": "Инвентарь игрока (1 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"checkfightstyles": {
+		"description": "Стили боя игрока (1 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"getherecar": {
+		"description": "Телепортировать к себе транспорт (1 LVL)",
+		"args": ["ID Транспорта"]
+	},
+	"gethere": {
+		"description": "Телепортировать игрока к себе (1 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"givebike": {
+		"description": "Выдать велосипед (1 LVL)",
+		"args": ["ID Игрока"]
+	},
+	"awh": {
+		"description": "WallHack с Лаунчера (1 LVL)"
 	}
 }
